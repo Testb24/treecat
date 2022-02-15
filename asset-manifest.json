@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/treecat/static/css/main.e48785df.css",
-    "main.js": "/treecat/static/js/main.0ac4bf04.js",
+    "main.css": "/treecat/static/css/main.8d69b4ef.css",
+    "main.js": "/treecat/static/js/main.f5ac48cd.js",
     "static/media/AccueilPic.jpg": "/treecat/static/media/AccueilPic.d9a3b3ef8e8e33279d09.jpg",
     "static/media/Logo_webcat.png": "/treecat/static/media/Logo_webcat.7573cae7171fd5b4f5e7.png",
     "static/media/Logo_webcat_inverse.png": "/treecat/static/media/Logo_webcat_inverse.7573cae7171fd5b4f5e7.png",
     "static/media/AccueilArbre.jpg": "/treecat/static/media/AccueilArbre.67775837c318dabc3340.jpg",
     "index.html": "/treecat/index.html",
-    "main.e48785df.css.map": "/treecat/static/css/main.e48785df.css.map",
-    "main.0ac4bf04.js.map": "/treecat/static/js/main.0ac4bf04.js.map"
+    "main.8d69b4ef.css.map": "/treecat/static/css/main.8d69b4ef.css.map",
+    "main.f5ac48cd.js.map": "/treecat/static/js/main.f5ac48cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e48785df.css",
-    "static/js/main.0ac4bf04.js"
+    "static/css/main.8d69b4ef.css",
+    "static/js/main.f5ac48cd.js"
   ]
 }
