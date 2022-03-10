@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/treecat/static/css/main.2958ad9e.css",
-    "main.js": "/treecat/static/js/main.a755aee0.js",
+    "main.css": "/treecat/static/css/main.3b93629b.css",
+    "main.js": "/treecat/static/js/main.1745ee09.js",
     "static/media/AccueilPic.jpg": "/treecat/static/media/AccueilPic.d9a3b3ef8e8e33279d09.jpg",
     "static/media/Logo_webcat.png": "/treecat/static/media/Logo_webcat.7573cae7171fd5b4f5e7.png",
     "static/media/Logo_webcat_inverse.png": "/treecat/static/media/Logo_webcat_inverse.7573cae7171fd5b4f5e7.png",
+    "static/media/FOND_BLANC.jpg": "/treecat/static/media/FOND_BLANC.6b88cd1e01aa0ae2321c.jpg",
     "static/media/emy.png": "/treecat/static/media/emy.3543567c207196342535.png",
-    "static/media/background_pic1.jpg": "/treecat/static/media/background_pic1.170b4835a64bdaff086d.jpg",
     "static/media/AccueilArbre.jpg": "/treecat/static/media/AccueilArbre.67775837c318dabc3340.jpg",
     "static/media/logotest6.png": "/treecat/static/media/logotest6.ef9cc5c2882dabc43973.png",
     "index.html": "/treecat/index.html",
-    "main.2958ad9e.css.map": "/treecat/static/css/main.2958ad9e.css.map",
-    "main.a755aee0.js.map": "/treecat/static/js/main.a755aee0.js.map"
+    "main.3b93629b.css.map": "/treecat/static/css/main.3b93629b.css.map",
+    "main.1745ee09.js.map": "/treecat/static/js/main.1745ee09.js.map"
   },
   "entrypoints": [
-    "static/css/main.2958ad9e.css",
-    "static/js/main.a755aee0.js"
+    "static/css/main.3b93629b.css",
+    "static/js/main.1745ee09.js"
   ]
 }
