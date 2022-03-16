@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/treecat/static/css/main.5241a45f.css",
-    "main.js": "/treecat/static/js/main.e52e6596.js",
+    "main.css": "/treecat/static/css/main.c5eaf7c1.css",
+    "main.js": "/treecat/static/js/main.de1807e5.js",
     "static/media/AccueilPic.jpg": "/treecat/static/media/AccueilPic.d9a3b3ef8e8e33279d09.jpg",
     "static/media/Logo_webcat.png": "/treecat/static/media/Logo_webcat.7573cae7171fd5b4f5e7.png",
     "static/media/Logo_webcat_inverse.png": "/treecat/static/media/Logo_webcat_inverse.7573cae7171fd5b4f5e7.png",
@@ -13,11 +13,11 @@
     "static/media/LogoNew.png": "/treecat/static/media/LogoNew.a05935f49885dadec864.png",
     "static/media/logotest6.png": "/treecat/static/media/logotest6.ef9cc5c2882dabc43973.png",
     "index.html": "/treecat/index.html",
-    "main.5241a45f.css.map": "/treecat/static/css/main.5241a45f.css.map",
-    "main.e52e6596.js.map": "/treecat/static/js/main.e52e6596.js.map"
+    "main.c5eaf7c1.css.map": "/treecat/static/css/main.c5eaf7c1.css.map",
+    "main.de1807e5.js.map": "/treecat/static/js/main.de1807e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5241a45f.css",
-    "static/js/main.e52e6596.js"
+    "static/css/main.c5eaf7c1.css",
+    "static/js/main.de1807e5.js"
   ]
 }
