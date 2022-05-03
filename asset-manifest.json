@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/treecat/static/css/main.52366ed3.css",
-    "main.js": "/treecat/static/js/main.5d67ae39.js",
+    "main.js": "/treecat/static/js/main.bbba5220.js",
     "static/media/AccueilPic.jpg": "/treecat/static/media/AccueilPic.d9a3b3ef8e8e33279d09.jpg",
     "static/media/Logo_webcat.png": "/treecat/static/media/Logo_webcat.7573cae7171fd5b4f5e7.png",
     "static/media/Logo_webcat_inverse.png": "/treecat/static/media/Logo_webcat_inverse.7573cae7171fd5b4f5e7.png",
@@ -27,20 +27,19 @@
     "static/media/Gris.png": "/treecat/static/media/Gris.3fa8e1c5b7a645575d64.png",
     "static/media/DessinChat2_v2.png": "/treecat/static/media/DessinChat2_v2.21f168a7e8c1ddcdeeb2.png",
     "static/media/LogoNew.png": "/treecat/static/media/LogoNew.a05935f49885dadec864.png",
-    "static/media/b333.png": "/treecat/static/media/b333.4001b6d138d661ca0d79.png",
+    "static/media/b3.png": "/treecat/static/media/b3.d84429473c124a24941c.png",
     "static/media/logotest6.png": "/treecat/static/media/logotest6.ef9cc5c2882dabc43973.png",
-    "static/media/b111.png": "/treecat/static/media/b111.340b719874422cdb8433.png",
-    "static/media/b444.png": "/treecat/static/media/b444.094fd2e0b7f15ec0f126.png",
+    "static/media/b1.png": "/treecat/static/media/b1.ea130e9baab0f3f62807.png",
     "static/media/faq_paiement.svg": "/treecat/static/media/faq_paiement.55b69036c5fd28ae1b5ff4376e24f54c.svg",
     "static/media/faq_livraison.svg": "/treecat/static/media/faq_livraison.5adfaff00cced24de1f141a51e0f17f4.svg",
     "static/media/faq_mat.svg": "/treecat/static/media/faq_mat.13a4ca32f09d19da0b516a5122adff0c.svg",
     "static/media/faq_entretien.svg": "/treecat/static/media/faq_entretien.326dfa9931ce04f4895f6315ec0b3361.svg",
     "index.html": "/treecat/index.html",
     "main.52366ed3.css.map": "/treecat/static/css/main.52366ed3.css.map",
-    "main.5d67ae39.js.map": "/treecat/static/js/main.5d67ae39.js.map"
+    "main.bbba5220.js.map": "/treecat/static/js/main.bbba5220.js.map"
   },
   "entrypoints": [
     "static/css/main.52366ed3.css",
-    "static/js/main.5d67ae39.js"
+    "static/js/main.bbba5220.js"
   ]
 }
