@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/treecat/static/css/main.17c1c6b5.css",
-    "main.js": "/treecat/static/js/main.0a0db442.js",
+    "main.css": "/treecat/static/css/main.0867baf7.css",
+    "main.js": "/treecat/static/js/main.9a782a80.js",
+    "static/media/img3.png": "/treecat/static/media/img3.7afac23277e6c8469031.png",
+    "static/media/img2.png": "/treecat/static/media/img2.54a6866e374d7eba1a61.png",
+    "static/media/img1.jpg": "/treecat/static/media/img1.c0e9dcd627093c57c2e9.jpg",
     "static/media/AccueilPic.jpg": "/treecat/static/media/AccueilPic.d9a3b3ef8e8e33279d09.jpg",
     "static/media/Logo_webcat.png": "/treecat/static/media/Logo_webcat.7573cae7171fd5b4f5e7.png",
     "static/media/Logo_webcat_inverse.png": "/treecat/static/media/Logo_webcat_inverse.7573cae7171fd5b4f5e7.png",
@@ -35,11 +38,11 @@
     "static/media/faq_mat.svg": "/treecat/static/media/faq_mat.13a4ca32f09d19da0b516a5122adff0c.svg",
     "static/media/faq_entretien.svg": "/treecat/static/media/faq_entretien.326dfa9931ce04f4895f6315ec0b3361.svg",
     "index.html": "/treecat/index.html",
-    "main.17c1c6b5.css.map": "/treecat/static/css/main.17c1c6b5.css.map",
-    "main.0a0db442.js.map": "/treecat/static/js/main.0a0db442.js.map"
+    "main.0867baf7.css.map": "/treecat/static/css/main.0867baf7.css.map",
+    "main.9a782a80.js.map": "/treecat/static/js/main.9a782a80.js.map"
   },
   "entrypoints": [
-    "static/css/main.17c1c6b5.css",
-    "static/js/main.0a0db442.js"
+    "static/css/main.0867baf7.css",
+    "static/js/main.9a782a80.js"
   ]
 }
