@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/treecat/static/css/main.63f40b57.css",
-    "main.js": "/treecat/static/js/main.23c41a3f.js",
+    "main.css": "/treecat/static/css/main.f562ebea.css",
+    "main.js": "/treecat/static/js/main.0d3e434c.js",
+    "static/media/ecorce.jpg": "/treecat/static/media/ecorce.bec4bb106de8bc86b064.jpg",
+    "static/media/bois.jpg": "/treecat/static/media/bois.a5287b7d60b44fd7c973.jpg",
     "static/media/img3.png": "/treecat/static/media/img3.7afac23277e6c8469031.png",
     "static/media/img2.png": "/treecat/static/media/img2.54a6866e374d7eba1a61.png",
     "static/media/img1.jpg": "/treecat/static/media/img1.c0e9dcd627093c57c2e9.jpg",
@@ -14,6 +16,7 @@
     "static/media/FondV2.jpg": "/treecat/static/media/FondV2.15e505a5c67751894c5e.jpg",
     "static/media/AccueilArbre.jpg": "/treecat/static/media/AccueilArbre.67775837c318dabc3340.jpg",
     "static/media/emy.jpg": "/treecat/static/media/emy.dca316f21974dd86c823.jpg",
+    "static/media/cat.jpg": "/treecat/static/media/cat.52f2d8be94e3449dbe9a.jpg",
     "static/media/DessinChat1_dark.png": "/treecat/static/media/DessinChat1_dark.f9d5c72229daaf3449dc.png",
     "static/media/Brun-beige.png": "/treecat/static/media/Brun-beige.331620b2978167d14069.png",
     "static/media/Rose.png": "/treecat/static/media/Rose.cd7fffa998a0bcdb07e9.png",
@@ -40,11 +43,11 @@
     "static/media/faq_mat.svg": "/treecat/static/media/faq_mat.13a4ca32f09d19da0b516a5122adff0c.svg",
     "static/media/faq_entretien.svg": "/treecat/static/media/faq_entretien.326dfa9931ce04f4895f6315ec0b3361.svg",
     "index.html": "/treecat/index.html",
-    "main.63f40b57.css.map": "/treecat/static/css/main.63f40b57.css.map",
-    "main.23c41a3f.js.map": "/treecat/static/js/main.23c41a3f.js.map"
+    "main.f562ebea.css.map": "/treecat/static/css/main.f562ebea.css.map",
+    "main.0d3e434c.js.map": "/treecat/static/js/main.0d3e434c.js.map"
   },
   "entrypoints": [
-    "static/css/main.63f40b57.css",
-    "static/js/main.23c41a3f.js"
+    "static/css/main.f562ebea.css",
+    "static/js/main.0d3e434c.js"
   ]
 }
