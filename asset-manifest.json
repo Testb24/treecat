@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/treecat/static/css/main.f562ebea.css",
-    "main.js": "/treecat/static/js/main.0d3e434c.js",
+    "main.css": "/treecat/static/css/main.cf185faa.css",
+    "main.js": "/treecat/static/js/main.6f322742.js",
     "static/media/ecorce.jpg": "/treecat/static/media/ecorce.bec4bb106de8bc86b064.jpg",
     "static/media/bois.jpg": "/treecat/static/media/bois.a5287b7d60b44fd7c973.jpg",
     "static/media/img3.png": "/treecat/static/media/img3.7afac23277e6c8469031.png",
@@ -43,11 +43,11 @@
     "static/media/faq_mat.svg": "/treecat/static/media/faq_mat.13a4ca32f09d19da0b516a5122adff0c.svg",
     "static/media/faq_entretien.svg": "/treecat/static/media/faq_entretien.326dfa9931ce04f4895f6315ec0b3361.svg",
     "index.html": "/treecat/index.html",
-    "main.f562ebea.css.map": "/treecat/static/css/main.f562ebea.css.map",
-    "main.0d3e434c.js.map": "/treecat/static/js/main.0d3e434c.js.map"
+    "main.cf185faa.css.map": "/treecat/static/css/main.cf185faa.css.map",
+    "main.6f322742.js.map": "/treecat/static/js/main.6f322742.js.map"
   },
   "entrypoints": [
-    "static/css/main.f562ebea.css",
-    "static/js/main.0d3e434c.js"
+    "static/css/main.cf185faa.css",
+    "static/js/main.6f322742.js"
   ]
 }
