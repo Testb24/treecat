@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/treecat/static/css/main.cf185faa.css",
+    "main.css": "/treecat/static/css/main.0bfb572e.css",
     "main.js": "/treecat/static/js/main.6f322742.js",
     "static/media/ecorce.jpg": "/treecat/static/media/ecorce.bec4bb106de8bc86b064.jpg",
     "static/media/bois.jpg": "/treecat/static/media/bois.a5287b7d60b44fd7c973.jpg",
@@ -43,11 +43,11 @@
     "static/media/faq_mat.svg": "/treecat/static/media/faq_mat.13a4ca32f09d19da0b516a5122adff0c.svg",
     "static/media/faq_entretien.svg": "/treecat/static/media/faq_entretien.326dfa9931ce04f4895f6315ec0b3361.svg",
     "index.html": "/treecat/index.html",
-    "main.cf185faa.css.map": "/treecat/static/css/main.cf185faa.css.map",
+    "main.0bfb572e.css.map": "/treecat/static/css/main.0bfb572e.css.map",
     "main.6f322742.js.map": "/treecat/static/js/main.6f322742.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf185faa.css",
+    "static/css/main.0bfb572e.css",
     "static/js/main.6f322742.js"
   ]
 }
