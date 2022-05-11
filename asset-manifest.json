@@ -1,25 +1,24 @@
 {
   "files": {
     "main.css": "/treecat/static/css/main.6a75b2d6.css",
-    "main.js": "/treecat/static/js/main.0550ea50.js",
+    "main.js": "/treecat/static/js/main.c26f7292.js",
     "static/media/img3.png": "/treecat/static/media/img3.7afac23277e6c8469031.png",
     "static/media/img2.png": "/treecat/static/media/img2.54a6866e374d7eba1a61.png",
     "static/media/img1.jpg": "/treecat/static/media/img1.c0e9dcd627093c57c2e9.jpg",
     "static/media/AccueilPic.jpg": "/treecat/static/media/AccueilPic.d9a3b3ef8e8e33279d09.jpg",
     "static/media/Logo_webcat_inverse.png": "/treecat/static/media/Logo_webcat_inverse.7573cae7171fd5b4f5e7.png",
-    "static/media/PicMiddle.jpg": "/treecat/static/media/PicMiddle.7328c861c00a08215b51.jpg",
     "static/media/def.svg": "/treecat/static/media/def.b8c8eb135cf5f49017734e7ca46ca70f.svg",
     "static/media/FondV2.jpg": "/treecat/static/media/FondV2.15e505a5c67751894c5e.jpg",
     "static/media/AccueilArbre.jpg": "/treecat/static/media/AccueilArbre.67775837c318dabc3340.jpg",
     "static/media/emy.jpg": "/treecat/static/media/emy.dca316f21974dd86c823.jpg",
     "static/media/Form.jpg": "/treecat/static/media/Form.c2fa0a15051f9930e02a.jpg",
     "static/media/BandeauTitre.png": "/treecat/static/media/BandeauTitre.dd6167d56c3867430551.png",
-    "static/media/CroquisArbre.png": "/treecat/static/media/CroquisArbre.d52e1a9deaf46f5262db.png",
     "static/media/faq_arbre.svg": "/treecat/static/media/faq_arbre.0bd79689a2433659951b587c56060078.svg",
     "static/media/LogoNew.png": "/treecat/static/media/LogoNew.a05935f49885dadec864.png",
     "static/media/border.png": "/treecat/static/media/border.bba722c9655a72f8b58c.png",
     "static/media/Dessin1.png": "/treecat/static/media/Dessin1.c3fa3d453d537d7f491e.png",
     "static/media/b3.png": "/treecat/static/media/b3.d84429473c124a24941c.png",
+    "static/media/PicMiddle3.jpg": "/treecat/static/media/PicMiddle3.64744eb0a42c5040026e.jpg",
     "static/media/chat_rose.png": "/treecat/static/media/chat_rose.95b0f51d6890ba986c1a.png",
     "static/media/logotest6.png": "/treecat/static/media/logotest6.ef9cc5c2882dabc43973.png",
     "static/media/p2.jpg": "/treecat/static/media/p2.99979b7e9e8b79aff8e9.jpg",
@@ -33,16 +32,17 @@
     "static/media/Blanc-gris.png": "/treecat/static/media/Blanc-gris.35c8613cfd2668bffa97.png",
     "static/media/b1.png": "/treecat/static/media/b1.ea130e9baab0f3f62807.png",
     "static/media/Brun.png": "/treecat/static/media/Brun.2e42444e28aed3118535.png",
+    "static/media/CroquisArbre.png": "/treecat/static/media/CroquisArbre.1d6f60d3cbbc199e38a6.png",
     "static/media/faq_paiement.svg": "/treecat/static/media/faq_paiement.55b69036c5fd28ae1b5ff4376e24f54c.svg",
     "static/media/faq_livraison.svg": "/treecat/static/media/faq_livraison.5adfaff00cced24de1f141a51e0f17f4.svg",
     "static/media/faq_mat.svg": "/treecat/static/media/faq_mat.13a4ca32f09d19da0b516a5122adff0c.svg",
     "static/media/faq_entretien.svg": "/treecat/static/media/faq_entretien.326dfa9931ce04f4895f6315ec0b3361.svg",
     "index.html": "/treecat/index.html",
     "main.6a75b2d6.css.map": "/treecat/static/css/main.6a75b2d6.css.map",
-    "main.0550ea50.js.map": "/treecat/static/js/main.0550ea50.js.map"
+    "main.c26f7292.js.map": "/treecat/static/js/main.c26f7292.js.map"
   },
   "entrypoints": [
     "static/css/main.6a75b2d6.css",
-    "static/js/main.0550ea50.js"
+    "static/js/main.c26f7292.js"
   ]
 }
