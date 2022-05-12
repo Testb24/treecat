@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/treecat/static/css/main.1bbf53b1.css",
-    "main.js": "/treecat/static/js/main.1f53a38b.js",
+    "main.js": "/treecat/static/js/main.210fa293.js",
     "static/media/AccueilPic.jpg": "/treecat/static/media/AccueilPic.d9a3b3ef8e8e33279d09.jpg",
     "static/media/Logo_webcat_inverse.png": "/treecat/static/media/Logo_webcat_inverse.7573cae7171fd5b4f5e7.png",
     "static/media/def.svg": "/treecat/static/media/def.b8c8eb135cf5f49017734e7ca46ca70f.svg",
@@ -13,10 +13,14 @@
     "static/media/Form.jpg": "/treecat/static/media/Form.6b3a529f5e657943b063.jpg",
     "static/media/Cat_black.jpg": "/treecat/static/media/Cat_black.a5d0af7072af9cc0bceb.jpg",
     "static/media/border.png": "/treecat/static/media/border.bba722c9655a72f8b58c.png",
+    "static/media/2.jpg": "/treecat/static/media/2.965ed4c2b874d4f33eae.jpg",
     "static/media/b3.png": "/treecat/static/media/b3.d84429473c124a24941c.png",
     "static/media/PicMiddle3.jpg": "/treecat/static/media/PicMiddle3.64744eb0a42c5040026e.jpg",
     "static/media/chat_rose.png": "/treecat/static/media/chat_rose.95b0f51d6890ba986c1a.png",
+    "static/media/3.jpg": "/treecat/static/media/3.55073b60d3a175f608ba.jpg",
     "static/media/logotest6.png": "/treecat/static/media/logotest6.ef9cc5c2882dabc43973.png",
+    "static/media/1.jpg": "/treecat/static/media/1.91e857a8b5bc3b37d925.jpg",
+    "static/media/4.jpg": "/treecat/static/media/4.624d3742086f6f3ec456.jpg",
     "static/media/p2.jpg": "/treecat/static/media/p2.99979b7e9e8b79aff8e9.jpg",
     "static/media/Bleu.png": "/treecat/static/media/Bleu.01af9c2950b568724cf8.png",
     "static/media/Beige.png": "/treecat/static/media/Beige.2689c9b67d2d80150727.png",
@@ -37,10 +41,10 @@
     "static/media/faq_entretien.svg": "/treecat/static/media/faq_entretien.326dfa9931ce04f4895f6315ec0b3361.svg",
     "index.html": "/treecat/index.html",
     "main.1bbf53b1.css.map": "/treecat/static/css/main.1bbf53b1.css.map",
-    "main.1f53a38b.js.map": "/treecat/static/js/main.1f53a38b.js.map"
+    "main.210fa293.js.map": "/treecat/static/js/main.210fa293.js.map"
   },
   "entrypoints": [
     "static/css/main.1bbf53b1.css",
-    "static/js/main.1f53a38b.js"
+    "static/js/main.210fa293.js"
   ]
 }
